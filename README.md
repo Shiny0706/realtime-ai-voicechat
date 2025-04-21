@@ -1,4 +1,4 @@
-# Go-React-Electron Realtime AI Audio Chat
+# Go-React-Electron Realtime AI Audio Chat (Try)
 
 This is an application built using a GoLang backend and Electron + React + Vite + front-end. It's designed to help users prepare for upcoming interviews using a real-time multi-modal AI. Engage in realtime audio conversations or type messages to the AI, which responds with both transcripts and audio to facilitate seamless interaction.
 
